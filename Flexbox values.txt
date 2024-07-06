@@ -1,0 +1,15 @@
+
+1-flex-direction:
+Values: row , row-reverse, column, or column-reverse.
+
+2-flex-wrap:
+Values: nowrap , wrap, or wrap-reverse.
+
+3-justify-content:
+Values: flex-start, flex-end, center, space-between, space-around.
+
+4-align-items:
+Values: flex-start, flex-end, center, baseline, or stretch.
+
+5-align-content:
+ Similar to justify-content.
